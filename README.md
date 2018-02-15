@@ -1,4 +1,12 @@
+# Movie Kids
+
+Movie Kids es un proyecto que nació dentro de la hackathon de laboratoria. La finalidad es que padres con hijos pequeños puedan encontrar información de las películas y series antes de enseñarselas a sus hijos. 
+
+![image](https://user-images.githubusercontent.com/32310873/36274545-083e7dd0-1256-11e8-9c3f-171266251355.png)
+
 ![logo](assets/img/logo_laboratoria.png)
+
+## Desarrollado para [laboratoria](http://laboratoria.la)
 
 
 ## HACKATHON : MOVIE KIDS
