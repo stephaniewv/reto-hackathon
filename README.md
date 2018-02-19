@@ -7,13 +7,6 @@ Movie Kids es un proyecto que nació dentro de la hackathon de laboratoria. La f
 ## Desarrollado para [laboratoria](http://laboratoria.la)
 
 
-![logo](assets/img/logo_laboratoria.png)
-
-
-
-## HACKATHON : MOVIE KIDS
-
-
 ### IDEA DE NEGOCIO:
 
 Crear un sitio web colaborativo, donde los padres puedan encontrar series, videos o programas que tengan contenido adecuado para sus hijos mediante un sistema de valoraciones y recomendaciones.
