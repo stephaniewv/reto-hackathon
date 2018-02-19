@@ -4,7 +4,8 @@ Movie Kids es un proyecto que nació dentro de la hackathon de laboratoria. La f
 
 ![image](https://user-images.githubusercontent.com/32310873/36274545-083e7dd0-1256-11e8-9c3f-171266251355.png)
 
-## Desarrollado para [laboratoria](http://laboratoria.la)
+## Desarrollado para
+[Laboratoria](http://laboratoria.la)
 
 
 ### IDEA DE NEGOCIO:
